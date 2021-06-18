@@ -1,0 +1,33 @@
+.info {
+	display: flex;
+	justify-content: center;
+	padding-top: 86px;
+}
+
+.info_wrapper {
+	display: flex;
+	text-align: left;
+/* 	width: 78.5%; */
+}
+
+.info__col {
+	padding-right: 63px;
+	display: flex;
+	justify-content: column;
+}
+
+.global-h3-style {
+	font-size: 26px;
+	color: #314a5b;
+	padding-bottom: 24px;
+	text-transform: uppercase;
+}
+
+.info-block__item {
+	color: #9aa0ab;
+	font-size: 15px;
+}
+
+.info-row__item {
+	padding-top: 29px;
+}
